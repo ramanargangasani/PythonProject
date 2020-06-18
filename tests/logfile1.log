@@ -1,0 +1,178 @@
+2020-06-10 11:49:18,128 :INFO : test_e2e :Getting all the cart titles
+2020-06-10 11:49:18,206 :INFO : test_e2e :product name:iphone X
+2020-06-10 11:49:18,262 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-10 11:49:18,301 :INFO : test_e2e :product name:Nokia Edge
+2020-06-10 11:49:18,338 :INFO : test_e2e :product name:Blackberry
+2020-06-10 11:49:18,621 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-10 11:49:18,746 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-10 11:49:24,267 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-10 12:34:34,480 :INFO : test_formSubmission :first name :Ramana
+2020-06-10 12:34:34,694 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 12:34:34,968 :INFO : test_formSubmission :first name :Male
+2020-06-10 12:34:35,583 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 12:34:35,583 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 12:34:35,756 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 12:34:35,756 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 12:34:36,055 :INFO : test_formSubmission :first name :Female
+2020-06-10 12:34:36,055 :INFO : test_formSubmission :first name :Female
+2020-06-10 12:34:48,258 :INFO : test_e2e :Getting all the cart titles
+2020-06-10 12:34:48,321 :INFO : test_e2e :product name:iphone X
+2020-06-10 12:34:48,352 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-10 12:34:48,399 :INFO : test_e2e :product name:Nokia Edge
+2020-06-10 12:34:48,431 :INFO : test_e2e :product name:Blackberry
+2020-06-10 12:34:48,888 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-10 12:34:49,114 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-10 12:34:54,843 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-10 12:41:12,575 :INFO : test_formSubmission :first name :Ramana
+2020-06-10 12:41:12,792 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 12:41:13,118 :INFO : test_formSubmission :first name :Male
+2020-06-10 12:41:14,144 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 12:41:14,144 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 12:41:14,409 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 12:41:14,409 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 12:41:14,765 :INFO : test_formSubmission :first name :Female
+2020-06-10 12:41:14,765 :INFO : test_formSubmission :first name :Female
+2020-06-10 12:41:28,799 :INFO : test_e2e :Getting all the cart titles
+2020-06-10 12:41:28,889 :INFO : test_e2e :product name:iphone X
+2020-06-10 12:41:28,936 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-10 12:41:28,989 :INFO : test_e2e :product name:Nokia Edge
+2020-06-10 12:41:29,040 :INFO : test_e2e :product name:Blackberry
+2020-06-10 12:41:29,588 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-10 12:41:29,789 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-10 12:41:35,429 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-10 13:44:58,428 :INFO : test_formSubmission :first name :Ramana
+2020-06-10 13:44:58,643 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 13:44:58,923 :INFO : test_formSubmission :first name :Male
+2020-06-10 13:44:59,567 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 13:44:59,567 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 13:44:59,721 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 13:44:59,721 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 13:44:59,985 :INFO : test_formSubmission :first name :Female
+2020-06-10 13:44:59,985 :INFO : test_formSubmission :first name :Female
+2020-06-10 13:45:10,844 :INFO : test_e2e :Getting all the cart titles
+2020-06-10 13:45:10,921 :INFO : test_e2e :product name:iphone X
+2020-06-10 13:45:10,970 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-10 13:45:11,022 :INFO : test_e2e :product name:Nokia Edge
+2020-06-10 13:45:11,079 :INFO : test_e2e :product name:Blackberry
+2020-06-10 13:45:11,383 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-10 13:45:11,506 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-10 13:49:43,892 :INFO : test_formSubmission :first name :Ramana
+2020-06-10 13:49:44,061 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 13:49:44,330 :INFO : test_formSubmission :first name :Male
+2020-06-10 13:49:44,927 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 13:49:44,927 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-10 13:49:45,092 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 13:49:45,092 :INFO : test_formSubmission :first name :Gangasani
+2020-06-10 13:49:45,375 :INFO : test_formSubmission :first name :Female
+2020-06-10 13:49:45,375 :INFO : test_formSubmission :first name :Female
+2020-06-10 13:49:55,894 :INFO : test_e2e :Getting all the cart titles
+2020-06-10 13:49:55,953 :INFO : test_e2e :product name:iphone X
+2020-06-10 13:49:55,987 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-10 13:49:56,026 :INFO : test_e2e :product name:Nokia Edge
+2020-06-10 13:49:56,056 :INFO : test_e2e :product name:Blackberry
+2020-06-10 13:49:56,327 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-10 13:49:56,444 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-10 13:50:01,931 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 13:15:03,310 :INFO : test_formSubmission :first name :Ramana
+2020-06-15 13:15:03,559 :INFO : test_formSubmission :first name :Gangasani
+2020-06-15 13:15:03,852 :INFO : test_formSubmission :first name :Male
+2020-06-15 13:15:04,710 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-15 13:15:04,710 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-15 13:15:04,883 :INFO : test_formSubmission :first name :Gangasani
+2020-06-15 13:15:04,883 :INFO : test_formSubmission :first name :Gangasani
+2020-06-15 13:15:05,152 :INFO : test_formSubmission :first name :Female
+2020-06-15 13:15:05,152 :INFO : test_formSubmission :first name :Female
+2020-06-15 13:15:18,154 :INFO : test_e2e :Getting all the cart titles
+2020-06-15 13:15:18,235 :INFO : test_e2e :product name:iphone X
+2020-06-15 13:15:18,279 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-15 13:15:18,323 :INFO : test_e2e :product name:Nokia Edge
+2020-06-15 13:15:18,374 :INFO : test_e2e :product name:Blackberry
+2020-06-15 13:15:19,091 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-15 13:15:19,328 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-15 13:15:24,979 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-16 10:42:07,537 :INFO : test_formSubmission :first name :Ramana
+2020-06-16 10:42:07,855 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 10:42:08,159 :INFO : test_formSubmission :first name :Male
+2020-06-16 10:42:09,107 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 10:42:09,107 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 10:42:09,305 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 10:42:09,305 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 10:42:09,605 :INFO : test_formSubmission :first name :Female
+2020-06-16 10:42:09,605 :INFO : test_formSubmission :first name :Female
+2020-06-16 10:42:21,981 :INFO : test_e2e :Getting all the cart titles
+2020-06-16 10:42:22,052 :INFO : test_e2e :product name:iphone X
+2020-06-16 10:42:22,096 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-16 10:42:22,137 :INFO : test_e2e :product name:Nokia Edge
+2020-06-16 10:42:22,177 :INFO : test_e2e :product name:Blackberry
+2020-06-16 10:42:22,732 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-16 10:42:22,943 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-16 10:42:28,511 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-16 20:03:23,230 :INFO : test_formSubmission :first name :Ramana
+2020-06-16 20:03:23,515 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 20:03:23,833 :INFO : test_formSubmission :first name :Male
+2020-06-16 20:03:24,567 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 20:03:24,567 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 20:03:24,765 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 20:03:24,765 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 20:03:25,231 :INFO : test_formSubmission :first name :Female
+2020-06-16 20:03:25,231 :INFO : test_formSubmission :first name :Female
+2020-06-16 20:03:37,596 :INFO : test_e2e :Getting all the cart titles
+2020-06-16 20:03:37,661 :INFO : test_e2e :product name:iphone X
+2020-06-16 20:03:37,706 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-16 20:03:37,746 :INFO : test_e2e :product name:Nokia Edge
+2020-06-16 20:03:37,788 :INFO : test_e2e :product name:Blackberry
+2020-06-16 20:03:38,329 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-16 20:03:38,600 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-16 20:03:44,317 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-16 20:45:58,497 :INFO : test_formSubmission :first name :Ramana
+2020-06-16 20:45:58,662 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 20:45:58,986 :INFO : test_formSubmission :first name :Male
+2020-06-16 20:45:59,671 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 20:45:59,671 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 20:45:59,831 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 20:45:59,831 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 20:46:00,094 :INFO : test_formSubmission :first name :Female
+2020-06-16 20:46:00,094 :INFO : test_formSubmission :first name :Female
+2020-06-16 20:46:11,821 :INFO : test_e2e :Getting all the cart titles
+2020-06-16 20:46:11,884 :INFO : test_e2e :product name:iphone X
+2020-06-16 20:46:11,919 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-16 20:46:11,962 :INFO : test_e2e :product name:Nokia Edge
+2020-06-16 20:46:12,005 :INFO : test_e2e :product name:Blackberry
+2020-06-16 20:46:12,464 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-16 20:46:12,693 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-16 20:46:18,205 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-16 22:35:46,187 :INFO : test_formSubmission :first name :Ramana
+2020-06-16 22:35:46,402 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 22:35:46,707 :INFO : test_formSubmission :first name :Male
+2020-06-16 22:35:47,356 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 22:35:47,356 :INFO : test_formSubmission :first name :RamaDevi
+2020-06-16 22:35:47,542 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 22:35:47,542 :INFO : test_formSubmission :first name :Gangasani
+2020-06-16 22:35:47,872 :INFO : test_formSubmission :first name :Female
+2020-06-16 22:35:47,872 :INFO : test_formSubmission :first name :Female
+2020-06-16 22:36:00,567 :INFO : test_e2e :Getting all the cart titles
+2020-06-16 22:36:00,662 :INFO : test_e2e :product name:iphone X
+2020-06-16 22:36:00,711 :INFO : test_e2e :product name:Samsung Note 8
+2020-06-16 22:36:00,748 :INFO : test_e2e :product name:Nokia Edge
+2020-06-16 22:36:00,789 :INFO : test_e2e :product name:Blackberry
+2020-06-16 22:36:01,343 :INFO : test_e2e : correct value checkout:Blackberry
+2020-06-16 22:36:01,544 :INFO : test_e2e :Entering country name on the check box i.e ind
+2020-06-16 22:36:07,361 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-17 02:30:33,336 :INFO : test_formSubmission :first name :Ramana
+2020-06-17 02:30:34,301 :INFO : test_formSubmission :first name :Gangasani
+2020-06-17 02:30:34,938 :INFO : test_formSubmission :first name :female
+2020-06-17 02:33:31,413 :INFO : test_formSubmission :first name :Ramana
+2020-06-17 02:33:31,570 :INFO : test_formSubmission :first name :Gangasani
+2020-06-17 02:33:31,868 :INFO : test_formSubmission :first name :female
+2020-06-17 02:35:49,196 :INFO : test_formSubmission :first name :Ramana
+2020-06-17 02:35:49,362 :INFO : test_formSubmission :first name :Gangasani
+2020-06-17 02:35:49,629 :INFO : test_formSubmission :first name :Female
